@@ -1,0 +1,60 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.pyd
+*.pyc
+*.pyo
+*.pyd
+*.pyd
+*.pyo
+*.pyc
+*.pyo
+*.pyd
+*.pyo
+
+# Django
+*.log
+*.pot
+*.py[cod]
+__pycache__/
+local_settings.py
+db.sqlite3
+media/
+
+# Environments
+.env
+venv/
+env/
+ENV/
+.venv/
+.VENV/
+
+# Migrations
+**/migrations/*.py
+**/migrations/*.pyc
+
+# Static files
+staticfiles/
+static/
+node_modules/
+npm-debug.log
+
+# Django specific files
+*.coverage
+.coverage.*
+htmlcov/
+*.db
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*~
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
